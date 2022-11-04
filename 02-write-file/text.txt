@@ -1,0 +1,4 @@
+ddd
+dddd
+ssss
+end of input
